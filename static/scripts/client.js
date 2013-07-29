@@ -1,5 +1,5 @@
 var ws = null;
-var wsUrl = 'ws://sbback1-simonmweber.rhcloud.com:8000/ws';
+var wsUrl = 'ws://sbback-simonmweber.rhcloud.com:8000/ws';
 
 var retries = 0;
 var maxRetries = 6;
