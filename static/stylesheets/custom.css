@@ -1,0 +1,33 @@
+/* don't flick when overflowing viewport */
+html {
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+html, body {
+    height: 98%;
+}
+
+#log {
+    overflow-y: scroll;
+    height: 90%;
+}
+
+.centered{
+    text-align: center;
+}
+
+.full-vertical{
+    height: 100%;
+}
+
+.bot-message{
+    color: blue;
+}
+
+.stranger-message{
+    color: red;
+}
+
+.notice{
+    color: grey;
+}
